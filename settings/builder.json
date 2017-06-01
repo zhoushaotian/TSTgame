@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.TheScretT",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "de0b8651-eb03-4ff8-a6eb-76536dced5bc",
+  "title": "TheSecretOfT",
+  "webOrientation": "auto"
+}
