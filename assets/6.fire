@@ -40,8 +40,8 @@
     "_globalZOrder": 0,
     "_tag": -1,
     "_opacityModifyRGB": false,
-    "_id": "804cce2b-5313-4424-92ef-72235a95476d",
-    "autoReleaseAssets": false
+    "_id": "598450f1-8a18-4348-9d85-ddfe0ab09a3b",
+    "autoReleaseAssets": true
   },
   {
     "__type__": "cc.Node",
@@ -401,8 +401,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 361,
-      "height": 461
+      "width": 362,
+      "height": 474
     },
     "_children": [],
     "_rotationX": 0,
@@ -445,7 +445,7 @@
     },
     "_enabled": true,
     "_spriteFrame": {
-      "__uuid__": "ab7861db-38a3-4af2-9c27-cb6de94a5259"
+      "__uuid__": "774cfd6e-78da-4727-a40e-7d9adae5ff72"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -461,19 +461,6 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_atlas": null
-  },
-  {
-    "__type__": "7074cq4t4hLRqJOEIsnNlf8",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 10
-    },
-    "_enabled": true,
-    "finishPoints": [],
-    "finishFlag": 0,
-    "length": 12,
-    "dispach": 0
   },
   {
     "__type__": "cc.PolygonCollider",
@@ -492,70 +479,73 @@
     "points": [
       {
         "__type__": "cc.Vec2",
-        "x": -126,
-        "y": -17.1
+        "x": -67.44,
+        "y": 97.84
       },
       {
         "__type__": "cc.Vec2",
-        "x": -126,
-        "y": 98.8
+        "x": -113.86,
+        "y": 97.96
       },
       {
         "__type__": "cc.Vec2",
-        "x": -12.6,
-        "y": 212
+        "x": -161.71,
+        "y": 98.09
       },
       {
         "__type__": "cc.Vec2",
-        "x": 67.8,
-        "y": 132.8
+        "x": -161.9,
+        "y": 216.79
       },
       {
         "__type__": "cc.Vec2",
-        "x": 68,
-        "y": 20
+        "x": 4.92,
+        "y": 217.64
       },
       {
         "__type__": "cc.Vec2",
-        "x": 116,
-        "y": 18.8
+        "x": 162.64,
+        "y": 218.44
       },
       {
         "__type__": "cc.Vec2",
-        "x": 3.6,
-        "y": -94.7
+        "x": 162.77,
+        "y": 99.11
       },
       {
         "__type__": "cc.Vec2",
-        "x": 160.5,
-        "y": -95.2
+        "x": 52,
+        "y": 99.8
       },
       {
         "__type__": "cc.Vec2",
-        "x": 161.1,
-        "y": -210.8
+        "x": 52.2,
+        "y": -218.28
       },
       {
         "__type__": "cc.Vec2",
-        "x": -49,
-        "y": -210.7
+        "x": -66.3,
+        "y": -218.69
       },
       {
         "__type__": "cc.Vec2",
-        "x": -162.5,
-        "y": -96
-      },
-      {
-        "__type__": "cc.Vec2",
-        "x": 28,
-        "y": 95.2
-      },
-      {
-        "__type__": "cc.Vec2",
-        "x": -11.9,
-        "y": 95.5
+        "x": -67.03,
+        "y": -16.4
       }
     ]
+  },
+  {
+    "__type__": "7074cq4t4hLRqJOEIsnNlf8",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 10
+    },
+    "_enabled": true,
+    "finishPoints": [],
+    "finishFlag": 0,
+    "length": 11,
+    "dispach": 0
   },
   {
     "__type__": "cc.Node",
@@ -679,7 +669,7 @@
     ],
     "mouseFlag": 0,
     "woodArr": [],
-    "length": 12
+    "length": 11
   },
   {
     "__type__": "cc.PolygonCollider",
@@ -840,7 +830,7 @@
     ],
     "mouseFlag": 0,
     "woodArr": [],
-    "length": 12
+    "length": 11
   },
   {
     "__type__": "cc.PolygonCollider",
@@ -1001,7 +991,7 @@
     ],
     "mouseFlag": 0,
     "woodArr": [],
-    "length": 12
+    "length": 11
   },
   {
     "__type__": "cc.PolygonCollider",
@@ -1074,7 +1064,7 @@
     "_position": {
       "__type__": "cc.Vec2",
       "x": 400,
-      "y": 158.1
+      "y": 156
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -1152,7 +1142,7 @@
     ],
     "mouseFlag": 0,
     "woodArr": [],
-    "length": 12
+    "length": 11
   },
   {
     "__type__": "cc.PolygonCollider",
